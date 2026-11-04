@@ -97,13 +97,7 @@ A aplicação possui validações para evitar situações inválidas, como:
 
 Os dados do sistema são armazenados em memória utilizando **coleções de objetos da linguagem Java**, como `ArrayList`.
 
-Também é previsto o uso de persistência em **banco de dados relacional**, utilizando os conceitos de **Repository** e **DTO**.
-
----
-
-## 🗃️ DAO
-
-As entidades utilizam o padrão **DAO (Data Access Object)** para realizar o gerenciamento e a manipulação dos dados armazenados em memória.
+Também é usado a persistência em **banco de dados relacional**, utilizando os conceitos de **DAO** e **DTO**.
 
 ---
 
@@ -130,7 +124,7 @@ Controller
 
 O sistema utiliza interfaces para padronizar comportamentos entre diferentes classes.
 
-Entre os exemplos previstos estão:
+Entre os exemplos estão:
 
 - Pagamento
 - Relatório
