@@ -138,6 +138,10 @@ Entre os exemplos estão:
 
 ---
 
+## 🖥️ Interface Gráfica
+
+O sistema também incluirá uma interface gráfica desenvolvida com Java Swing e JavaFX.
+
 ## 🔖 Enumerações
 
 São utilizadas enumerações para representar informações com valores pré-definidos.
