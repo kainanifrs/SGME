@@ -1,8 +1,13 @@
 # 🎓 Sistema de Gerenciamento de Mensalidades Escolares(SGME)
 
-Sistema desenvolvido para gerenciar **alunos, responsáveis financeiros, turmas e mensalidades** de uma escola particular.
+## 🎯 Objetivo
 
-A aplicação permite realizar cadastros, alterações, remoções, pesquisas, controle financeiro e geração de relatórios.
+O objetivo do projeto é desenvolver uma aplicação capaz de centralizar o gerenciamento das informações escolares e financeiras de uma escola particular, facilitando o controle de alunos, turmas, responsáveis e mensalidades.
+
+Além da implementação das funcionalidades, o projeto também busca aplicar conceitos de **Programação Orientada a Objetos, arquitetura de software, persistência de dados, tratamento de exceções e padrões de projeto**.
+
+Projeto de conclusão da disciplina de POOII(Programação Orientada a Objetos II), do Instituto Federal de Educação Ciência e Tecnologia do Rio Grande do Sul Campus Osório
+
 
 ## 👥 Desenvolvedores
 
@@ -203,11 +208,3 @@ O sistema utiliza diferentes padrões de projeto, organizados em três categoria
 - MVC
 - Banco de dados relacional
 - Padrões de projeto
-
----
-
-## 🎯 Objetivo
-
-O objetivo do projeto é desenvolver uma aplicação capaz de centralizar o gerenciamento das informações escolares e financeiras de uma escola particular, facilitando o controle de alunos, turmas, responsáveis e mensalidades.
-
-Além da implementação das funcionalidades, o projeto também busca aplicar conceitos de **Programação Orientada a Objetos, arquitetura de software, persistência de dados, tratamento de exceções e padrões de projeto**.
