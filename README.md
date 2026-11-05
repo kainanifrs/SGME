@@ -199,7 +199,6 @@ O sistema utiliza diferentes padrões de projeto, organizados em três categoria
 - Lambda Expressions
 - Streams
 - DAO
-- Repository
 - DTO
 - MVC
 - Banco de dados relacional
